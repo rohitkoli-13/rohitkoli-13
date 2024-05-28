@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitkoli-13
 - 👀 I’m interested in ...Programing
-- 🌱 I’m currently learning ...Java Language
+- 🌱 I’m currently learning ...Java Language, C# dot net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My Gmail id is - rohitbkoli13@gmail.com
 
